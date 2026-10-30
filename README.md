@@ -1,6 +1,6 @@
 # 🛡️ SafeStep – Smart Maternal Safety & Monitoring System
 
-MAIN : exquisite-jelly-7bee07.netlify.app
+MAIN : https://exquisite-jelly-7bee07.netlify.app
 
 **Because Every Step Matters.**
 
